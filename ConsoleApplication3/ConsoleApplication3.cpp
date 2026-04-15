@@ -5,6 +5,7 @@
 #include "../StaticLib3/Figures.h"
 #include "../StaticLib3/Rhombuses.h"
 
+
 using namespace std;
 
 int main()
